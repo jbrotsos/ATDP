@@ -1,2 +1,0 @@
-# ATDP
-ATDP source code
