@@ -1,3 +1,0 @@
-# ATDP
-
-smashing pumpkins
